@@ -1,0 +1,86 @@
+h1{
+  font-family: 'Raleway', sans-serif;
+}
+
+#mickeyears{
+  width: 100px;
+  height: 100px;
+}
+#title{
+  display: inline-block;
+}
+#invitation{
+  height: 500px;
+  width: 1050px;
+  display: block;
+  margin-left: 20px;
+}
+.first_feature{
+  border: 1px solid lightgray;
+  height: 200px;
+  width: 1050px;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 25px;
+  background-color: #6C73EF;
+  color: white;
+}
+.sub1{
+  height: 400px;
+  width: 400px;
+  margin-left: 115px;
+}
+.sub2{
+  height: 400px;
+  width: 400px;
+  margin-left: 620px;
+  margin-top: -420px;
+}
+.second_feature{
+  border: 1px solid lightgray;
+  height: 175px;
+  width: 1050px;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: -90px;
+  background: url('http://4fcc.org/wordpress/wp-content/uploads/2014/01//event-planning-banner1-703x201.jpg');
+  color: white;
+}
+h3{
+  font-size: 40px;
+  font-family: 'Passion One', cursive;
+}
+p{
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+#calendar{
+  height: 50px;
+  width: 50px;
+  margin: 30px 30px;
+}
+#cldr{
+  border: 1px solid lightgray;
+  border-radius: 60px;
+  height: 115px;
+  width: 115px;
+  margin-left: 80px;
+  margin-top: -45px;
+}
+ul{
+  margin-left: 80px;
+  margin-top: 70px;
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+}
+#li{
+  margin-top: -65px;
+  margin-left: 625px;
+}
+li{
+  margin-left: 40px;
+  margin-top: 75px;
+}
+#drg{
+  color: black;
+}
